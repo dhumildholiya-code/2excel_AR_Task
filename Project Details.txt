@@ -1,0 +1,10 @@
+- I used unity ARCore template which they provide to kick start the project.
+- I added AR Session origin which handles Camera to render.
+- Then, I added AR Session which handles tracking and positioning.
+- Then, I added 'AR Tracked Image Manager' component which ARCore library provide and handles image tracking.
+- Then, I created Image Database which will be tracked and added QR code image to that database.
+- Then, Created Quad using give Floor material which will be augmented when image will be tracked.
+- then, I created scripts called FLoor, that can changed scaled of the floor object runtime.
+- I created testing video to check the stabillity of the augmented object and tracked image.
+- I got pretty good result.
+- heres the link of video :- https://drive.google.com/file/d/1CdkY4EE10s0d0eGoWptpU10mJmqzM9Qj/view?usp=sharing
